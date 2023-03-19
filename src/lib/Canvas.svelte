@@ -144,7 +144,7 @@
 <canvas bind:this={canvas} {width} {height} />
 
 <div>
-	<button on:click={downloadImage} class="border-2 p-2">download</button>
+	<button on:click={downloadImage} class="text-gray-100 bg-red-900 border-2 p-2">download</button>
 </div>
 
 {#each texts as text, i}
