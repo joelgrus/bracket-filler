@@ -18,10 +18,12 @@
 
 <Canvas />
 
-<div>made by <a class="text-blue-600" href="https://twitter.com/joelgrus">@joelgrus</a></div>
+<div>
+	made by <a target="_blank" class="text-blue-600" href="https://twitter.com/joelgrus">@joelgrus</a>
+</div>
 
 <div>
-	<a class="text-blue-600" href="https://github.com/joelgrus/bracket-filler"
+	<a target="_blank" class="text-blue-600" href="https://github.com/joelgrus/bracket-filler"
 		>github.com/joelgrus/bracket-filler</a
 	>
 </div>
