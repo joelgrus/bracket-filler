@@ -5,3 +5,5 @@ some friends of mine made a [bracket contest](https://recsys-madness.com/) but t
 so I hacked this together
 
 (I wanted to mess around with something like this for a while anyway)
+
+[https://sensational-hamster-376c59.netlify.app/](https://sensational-hamster-376c59.netlify.app/)
